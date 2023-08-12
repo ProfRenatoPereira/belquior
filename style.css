@@ -1,4 +1,4 @@
-html, body {
+/* html, body {
 	padding: 0;
 	margin: 0;
 	overflow: hidden;
@@ -6,12 +6,12 @@ html, body {
 	background: #000000;
 	color: white;
 }
-
-html, body, canvas {
+ */
+/* html, body, canvas {
 	touch-action: none;
 	touch-action-delay: none;
 }
-
+ */
 #notSupportedWrap {
 	margin: 2em auto 1em auto;
 	width: 75%;
@@ -24,14 +24,14 @@ html, body, canvas {
 	color: black;
 }
 
-#notSupportedTitle {
+/* #notSupportedTitle {
 	font-size: 1.8em;
 }
 
 .notSupportedMessage {
 	font-size: 1.2em;
 }
-
+ */
 .notSupportedMessage em {
 	color: #888;
 }
